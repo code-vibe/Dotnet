@@ -1,0 +1,15 @@
+/home/agentx/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/agentx/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/agentx/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/agentx/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/agentx/Desktop/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/agentx/Desktop/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
